@@ -1,0 +1,8 @@
+../Core/Src/hal.c:73:6:InitADC	8	static
+../Core/Src/hal.c:309:6:getCS	8	static
+../Core/Src/hal.c:326:6:getSYNC_RESET	8	static
+../Core/Src/hal.c:348:6:setCS	24	static
+../Core/Src/hal.c:376:6:setSYNC_RESET	24	static
+../Core/Src/hal.c:395:6:toggleSYNC	8	static
+../Core/Src/hal.c:418:6:toggleRESET	8	static
+../Core/Src/hal.c:461:6:waitForDRDYinterrupt	24	static

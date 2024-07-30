@@ -1,0 +1,8 @@
+../Core/Src/hal.c:73:6:InitADC	1
+../Core/Src/hal.c:309:6:getCS	1
+../Core/Src/hal.c:326:6:getSYNC_RESET	1
+../Core/Src/hal.c:348:6:setCS	2
+../Core/Src/hal.c:376:6:setSYNC_RESET	1
+../Core/Src/hal.c:395:6:toggleSYNC	1
+../Core/Src/hal.c:418:6:toggleRESET	1
+../Core/Src/hal.c:461:6:waitForDRDYinterrupt	3
